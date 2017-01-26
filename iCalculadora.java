@@ -1,5 +1,5 @@
 
-public interface Calculadora {
+public interface iCalculadora {
 
 	public int suma(int a, int b);
 	

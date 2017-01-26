@@ -1,5 +1,5 @@
 
-public interface Pila<E>{
+public interface iPila<E>{
 	
 	public void push(E algo);
 	
