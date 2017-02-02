@@ -9,4 +9,6 @@ public interface iCalculadora {
 	
 	public double division(double a, double b);
 	
+	public double operar(String n);
+	
 }
